@@ -1,0 +1,59 @@
+No.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+The name of Classification
+Societies recognized
+Russian Maritime Register of Shipping
+(RS)
+American Bureau of Shipping (ABS)
+Nippon Kaiji Kyokai (Class NK - NKK)
+Hellenic Register of Shipping (HRS)
+Lloyd's Register (LR)
+Bureau Veritas (BV)
+Korean Register of Shipping (KR)
+Isthmus Maritime Classification S.A
+(IMCS)
+Registro Italiano Navale (RINA)
+Polski Rejestr Statkow (Polish Register of
+Shipping - PRS)
+The Emirates Classification Society
+(TASNEEF)
+Croatian Register of Shipping (CRS)
+Phoenix Register of Shipping (PHRS)
+DNV GL AS (DNV-GL)
+Indian Register of Shipping (IRS)
+Agreement signed
+date
+7/7/2008
+22/9/2008
+1/11/2008
+11/9/2008
+30/10/2008
+8/10/2008
+12/4/2010
+11/3/2011
+4/4/2011
+13/5/2013
+24/2/2015
+19/6/2015
+27/9/2016
+3/10/2016
+10/11/2018
+
+16
+Dromom Bureau of Shipping (DBS)
+10/11/2018
+

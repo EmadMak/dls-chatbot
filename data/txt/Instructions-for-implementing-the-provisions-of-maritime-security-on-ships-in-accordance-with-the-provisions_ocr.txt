@@ -1,0 +1,893 @@
+Resolution No. (1) for the year 2004
+Instructions for implementing the provisions of maritime
+security on ships in accordance with the provisions of the
+International Convention for the Safety of Life at Sea and
+the International Ship and Port Facility Security Code
+(ISPS Code)
+chapter one
+General Provisions
+Article (1)
+These instructions shall be called (Instructions for the Application of
+Maritime Security Provisions on Ships in accordance with the provisions of
+the International Convention for the Safety of Life at Sea and the
+International Code of Maritime Security for Ships and Ports and shall come
+into force as of the date of its publication in the Official Gazette.
+Article (2)
+The following words and phrases, wherever mentioned in these instructions, shall have
+the meanings assigned to them unless the context indicates otherwise:
+: Ministry of Transport in the Hashemite
+Ministry
+Kingdom of Jordan.
+: Minister of Transport / Chairman of the Board
+Minister
+of Directors of the Jordan Maritime Authority.
+: Director General of the Jordan Maritime
+manager
+Authority.
+: IMO.
+The International Convention for the Safety of
+organization
+agreement
+Life at Sea: 1974 and its amendments.
+The International Ship and Port Facility
+Blog
+Security Code.
+A country that has acceded to the agreement
+State party to the
+and became effective thereon.
+Convention
+The government agency in charge of
+Maritime
+implementing the provisions of the agreement Administration
+and in Jordan is the Jordanian Maritime
+
+Authority, and it is responsible for ensuring
+the implementation of the provisions of the
+Code related to the security of port facilities
+and port interconnection activities with ships.
+: The Jordanian Maritime Authority, which is
+Commission
+the governmental body charged with
+implementing the provisions of the agreement
+in Jordan, and concerned with implementing
+the provisions of the Code related to the
+security of ships and port facilities.
+The port of Aqaba and its commercial port
+port
+facilities in Aqaba and other port services.
+The authority that assumes the responsibility
+company
+of managing, manning and equipping the
+ship, whether its owner or charterer is under
+an ordinary charter contract, or any institution
+entrusted with this responsibility and the
+obligation to implement the provisions of
+these instructions, the code and the
+agreement.
+: The navigable means of maritime transport to
+the ship
+which the provisions of the Convention apply.
+: A certificate issued by the authority or
+whoever it delegates from the classification
+International Ship
+Security Certificate
+authorities for the ship bearing the Jordanian
+flag after verifying the vessel's compliance
+with all the maritime security requirements
+stipulated in the agreement and the code.
+Persons on board a ship other than its master
+passengers
+or crew members.
+: Any ship carrying more than 12 passengers.
+passenger ship
+The voyage of the ship from a country to which
+international flight
+the Convention applies to any port outside
+the territorial waters of that country.
+: A personal document granted by the
+Authority that proves the eligibility of its
+Navigator's identity
+document
+holder to board Jordanian ships in order to
+work or perform official duties on the ship.
+: The appointed person authorized by the
+Authority to carry out supervision and
+port state control
+officer
+inspection work on the requirements of
+
+international treaties on ships that visit the
+port.
+: The officer chosen by the company from the
+ship's crew in a manner that does not conflict
+with the ship's security plan_To supervise the
+implementation of the ship's security plan and
+make amendments thereto, and coordinate
+Ship security activities with crew members,
+port security officers, company security
+officers and those involved in ports.
+The person appointed by the competent
+authority to supervise the development and
+implementation of the port security plan and
+to coordinate communication with those
+concerned to ensure the security of the port
+facilities.
+The person appointed by the ship
+management company to supervise the
+ship's security assessment, develop,
+implement and update the ship's security
+plan, follow up the training of the ship's crew
+on the implementation of the ship's security
+plan, and ensure liaison with the ship security
+officer and port facility officer.
+A plan aimed at setting measures and
+procedures to address potential security
+threats or breaches on the ship and to
+prevent the boarding of unauthorized persons
+on board the ship or the leakage of any
+materials or weapons for use against
+individuals, the ship, property, or ports, or
+what would cause a maritime security
+incident.
+: A plan aimed at developing measures and
+procedures to protect the port facility, the
+ships lined up therein, people and goods from
+potential risks resulting from a security
+incident, based on a risk assessment study
+and security assessment.
+: It is every incident committed against the
+security of ships or the security of port
+ship security officer
+port security officer
+company security
+officer
+Ship Security Plan
+port security plan
+Maritime security
+accident
+
+facilities or fixed marine platforms in the form
+of embezzlement, theft, smuggling of illegal
+drugs, using ships for illegal immigration,
+piracy, armed robbery, sabotage or terrorism.
+: The normal security level in which the ship
+operates in port facilities without any threat or
+risk of a maritime security incident targeting
+the ship, the berth or the waters in which the
+ship is located.
+: The security level that requires the presence
+and activation of enhanced security
+measures on the ship in the port facilities due
+to the existence of security risks and threats
+that warn of the possibility of a maritime
+security incident on the ship or at the port
+facilities or in the territorial waters.
+: The exceptional security level that must be
+declared and applied on the ship in port
+facilities when there is an imminent security
+threat or danger.
+: The movement of navigable ships within the
+areas where the port instructions are applied
+or within the territorial waters.
+It is the authority authorized and approved by
+the Authority tor the purposes of carrying out
+the security assessment work of the ship or
+port tacility. Another security organization that
+did not participate in the work of the security
+assessment of the ship can be authorized to
+certity the security assessment and the
+securty plan tor ships only or to issue the
+international certificate for the security of the
+ship. As for the approval of the security
+assessment of the facilities The port is one of
+the tasks of the committee to follow up on the
+implementation of the provisions of the
+maritime security requirements. As tor the
+document of commitment to implement the
+security requirements for port facilities, it is
+issued by the authority only.
+Security Level One
+Security Level Two
+Security Level Three
+coastal navigation
+security organization
+
+: It is a certificate issued by the authority to the
+port facility after verifying its compliance with
+all the maritime security requirements
+stipulated in the agreement and the code and
+after approval by the follow-up committee on
+the implementation of the provisions of the
+maritime security requirements for the
+security assessment of the concerned port
+facility and the duly submission of the
+security plan for this facility.
+Document of
+commitment to
+implement the
+security
+requirements of the
+port facility
+Article (3)
+A higher committee will be formed to oversee the requirements of maritime
+security and the plan to confront maritime accidents and disasters in the
+Jordanian territorial waters, headed by the minister and with the membership
+of representatives from:
+.1
+Ministry of Finance / Jordan Customs.
+.2
+Aqaba Special Economic Zone Authority.
+.3
+The Joint Chiefs of Staff of the Jordanian Armed Forces.
+4. A representative of the General Intelligence Department.
+5. Jordan Maritime Commission.
+6. Agaba Development Company.
+Article (4)
+The duties of the Higher Committee shall be as follows:
+.1
+Supervising the work of the follow-up committee for the
+implementation of the provisions of the maritime security
+requirements contained in Article (3) above.
+.2
+Adopt the policies, measures and procedures necessary to
+implement the provisions of the maritime security
+requirements within the Jordanian territorial waters, which
+were submitted to it by the committee to follow up on the
+implementation of the provisions of the Code.
+
+.3
+Follow-up and supervision of the implementation of the plan
+to confront disasters and marine accidents in the territorial
+waters and the Gulf of Aqaba.
+.4
+Adopt the policies, measures and procedures necessary to
+confront marine accidents and disasters.
+Article (5)
+A committee called the Committee to Follow-up the Implementation of the
+Maritime Security Requirements Provisions in the Kingdom shall be formed
+under the chairmanship of the Director General of the Maritime Authority
+and the membership of:-
+1. Director of the Directorate of International Relations and
+Planning in the Commission.
+2. Director of the Directorate of Technical Affairs and Maritime
+Safety.
+.3
+.4
+A representative of the security authorities.
+A representative of the Royal Navy.
+5. A representative of the authority of the Aqaba Special
+Economic Zone.
+.6
+Deputy Director General of Aqaba Development Company
+for Transport, Ports and Logistics Affairs.
+7. Chief of Staff of the Southern Military Region Command.
+8. Aqaba Customs Director.
+9. Designated port facility security officer.
+The duties of the committee are as follows:-
+1. Approving and approving the plans for the security of
+Jordanian port facilities and studying the documents
+and documents submitted to the authority for the
+.2
+purposes of approval and approval.
+Determining the levels of maritime security in
+Jordanian territorial waters and Jordanian ports.
+.3
+Dealing with security alarm signals from ships,
+providing advice and instructions, and activating
+security emergency plans.
+.4
+Supervising the comprehensive application of the
+provisions of maritime security requirements in these
+
+instructions, the agreement and the code on ships,
+ports and any national or international legislation and
+the provisions of these instructions.
+Article (6)
+These instructions apply to:
+First) Ships operating on international voyages as follows:
+.1
+Passenger ships and fast passenger ships.
+Cargo ships and express cargo ships from500 total tons or
+more.
+.3
+Mobile offshore drilling units.
+ii) Port facilities serving ships operating on international voyages.
+Third) These instructions do not apply to warships or navigational
+aids and ships owned by the government and used only for
+government non-commercial purposes.
+Article (7)
+a) The Commission determines the levels of security to be
+followed, activated and applied to Jordanian ships or foreign
+ships when they enter Jordanian territorial waters, in
+cooperation with the competent authorities. The ship must act
+in accordance with the security levels set by the authority on
+Jordanian ships.
+b) Jordanian ships must carry the ship's security plan permanently
+and certified by the authority or the authority authorized to do
+so. The ship management company or its master must inform
+the Commission of any modification to the ship's security plan
+or the ship's crew.
+Chapter !l
+Inspection of ships for the purpose of issuing the International
+Ship Security Certificate
+Article (8)
+
+Every Jordanian ship to which the maritime security requirements contained
+in these instructions, the agreement and the code are applicable is subject to
+the examinations and audits specified for the purposes of issuing the
+International Ship Security Certificate, as follows:
+1. Preliminary checks before the ship begins its marine service
+and before the issuance of the International Ship Security
+Certificate, which includes a complete inspection and audit
+process for its security system and for any security
+equipment that must be provided in accordance with the
+requirements of chapter (X1-2) and Chapter V of the
+Convention from the Convention, Code and Approved Ship
+Security Plan. Such examination shall include verification
+that the ship's security system and associated security
+equipment comply with the requirements under Chapter (X1-
+2) of the Convention and the Code and are consistent with
+the type and size of the ship and the service it performs in
+sea carriage.
+2. A renewal examination process at intervals determined by the
+Commission, provided that it does not exceed five years.
+3. At least one in-between inspection in the period between the
+second year and the third year of the issuance of the
+certificate in accordance with the requirements of the Code.
+The in-between inspection shall include an examination of
+the ship's security system and associated security
+equipment to ensure that it is still in a satisfactory condition
+for the intended service of the ship. The results of the inter-
+examination process must be recorded on the certificate.
+4. Any additional examinations, evaluations or inspections
+determined by the Commission.
+Article (9)
+The commission's inspectors undertake inspection, evaluation and
+inspection of Jordanian ships, and the commission may delegate any of these
+operations to a classification body or security organization approved by it, so
+that the examination procedures include the following:
+.1
+Ensuring a security assessment of the ship, ensuring the
+effectiveness and efficiency of the inspection process, and
+
+.2
+undertaking the necessary arrangements to ensure the
+inspection of ships and the issuance of security certificates
+and documents for them.
+Maintaining the ship's security system and the associated
+security equipment, after the inspection process, in
+accordance with the provisions of the two regulations (X1-2-
+2.6) (X1-2-2.4) of the Convention, Code, and Approved Ship
+Security Plan.
+Not to introduce any change to the security system and the
+associated security equipment or to the approved plan for
+the security of the ship, without the approval of the
+Commission.
+Article (10)
+The ship security assessment process shall be an essential and essential part
+of the ship security plan. The ship assessment elements and procedures shall
+be defined as follows:
+.1
+.2
+.3
+.4
+Determine the level of measures and procedures in place on
+board the ship prior to applying the requirements of the
+Convention and the Code.
+Determining the nature of the main operations of the ship,
+which requires the provision of precautions and protection
+for it, including the operations of loading and unloading
+goods, the boarding of the crew, passengers and all persons
+concerned with boarding the ship to carry out specific works
+or disembarking from it.
+Determining the potential and potential threats and
+evaluating the weaknesses of the main operations on the
+ship and the possibility of their security penetration,
+including the activities of the human element or the
+infrastructure of the ship, or in the policies and procedures
+followed for its management and operation.
+The company's documentation of the ship evaluation
+process, keeping and reviewing its documents.
+Article (11)
+
+.1
+.2
+Every Jordanian ship must permanently carry on board a
+ship's security plan approved by the Commission, and the
+authority may assign the task of preparing and reviewing
+ship security plans and approving them, or making
+amendments to a plan previously approved, to a security
+authority or organization approved by it.
+In the event that the Commission authorizes an approved
+security authority or organization to carry out a review,
+review, approval or amendments to a security plan for a
+Jordanian ship, it is not permissible for this authority or
+organization to have participated in conducting a security
+assessment of the ship, or in preparing the same plan or the
+amendments made to it.
+Article (12)
+The ship's security plan shall be in the official language of the ship's crew
+and shall contain translation into English and shall include the following
+elements:-
+.1
+Detailed procedures for dealing with each of the three levels
+of security detined in the Code.
+.2
+The ship s security plan, or its amendments, submitted by
+the company for approval, shall be accompanied by the
+security assessment on which the plan and its amendments
+were based.
+.3
+Measures intended to prevent the introduction or importation
+of any equipment, materials, weapons, dangerous materials
+and devices that are not authorized to be carried on board a
+ship and intended for use against persons, ships or ports
+.4
+Determining the areas on board the ship that are only
+authorized to enter by authorized persons, and the
+measures aimed at preventing unauthorized persons from
+entering these areas.
+.5
+Procedures and precautions aimed at preventing
+unauthorized persons from entering the vessel.
+.6
+Procedures to address threats or security breaches,
+including arrangements necessary to maintain the ship's
+security during the ship's unusual operations or for the
+
+interactions between the ship and the port in which it is
+located.
+Procedures for responding to any security instructions that
+may be issued by a country in whose territorial waters the
+ship is located at the third security level.
+8. Ship evacuation procedures in the event of threats or
+security breaches.
+.9
+The duties of the ship's crew assigned with security
+responsibilities and the duties of other crew members with
+respect to security aspects.
+.10
+.11
+Procedures for reviewing security activities.
+Training procedures and exercises associated with the plan.
+12. Procedures for the interrelationships of the interaction
+.13
+activities between the ship and the port or port facility.
+Procedures related to the periodic review and update of the
+plan.
+.14
+.15
+.16
+Procedures for reporting security incidents.
+Determine the ship's security officer.
+Determine the company's security officer, and how to contact
+him over the course of the twenty-four hours.
+17. Procedures to ensure that security equipment on board is
+inspected, tested, calibrated and maintained.
+18. Document the frequency of testing and calibration of security
+.19
+equipment available on board.
+Determining the installation sites for the control device to
+.20
+operate the security alarm system in the ship.
+Procedures, instructions, and directives relating to the use,
+testing, commissioning, deactivation and resetting of a ship's
+security alarm system, and the mitigation of false alarms.
+Chapter III
+Duration and validity of the International Ship Security
+Certificate
+Article (13)
+- The International Ship Security Certificate is granted for a
+period not exceeding five years, as follows:-
+- Upon completion of the initial examination process for granting
+the certificate for the first time, or after completing the renewal
+
+examination process within three months prior to the expiry
+date of an existing certificate, the new certificate shall be valid
+from the date of completion of the renewal examination process
+until a date not exceeding five years from the date of expiry of
+the existing certificate.
+-
+Upon completion of the renewal examination process more
+than three months before the expiry of the existing certificate,
+and the new certificate shall be valid from the date of
+completing the renewal examination process until a date not
+exceeding five years from the date of completing the renewal
+examination process.
+- The validity of the certificate is extended after its expiry date for
+a period of five years, provided that the checks referred to in
+Article (8) of these instructions, which must be applied when
+issuing a certificate for a period of five years.
+In the event that a renewal inspection process is completed and
+a new certificate cannot be issued or delivered to a ship before
+the expiry date of the existing certificate, the authority or a
+security classification body approved by the Commission may
+certity the existing certificate, and this certificate must be
+accepted as a certificate valid for an additional period not
+exceeding five months from its expiration date.
+Article (14)
+The Commission may extend the period of validity of the certificate if, at
+the time of the certificate's expiry date, the ship is not present in the port in
+which it will be subject to inspection. This extension is granted only for the
+purpose of allowing the ship to complete its voyage to the port where it will
+be examined, and after verifying that the extension does not affect the ship's
+security.
+Article (15)
+A ship that has been granted an extension may not, upon its arrival at the
+port where it will be subject to inspection, leave that port, claiming that it
+
+has enjoyed that extension before obtaining a new certificate. Grant the
+extension.
+Article (16)
+The authority may extend the period of the certificate issued to a ship that
+performs short voyages and has not been extended under the provisions of
+the previous articles for a grace period not exceeding one month from the
+expiry date indicated in the certificate. Upon completion of the renewal
+inspection process, the certificate that was in place before the extension was
+granted takes effect.
+Article (17)
+In the event that an inter-examination process is completed before the period
+specified in paragraph (3) fromSubject (8) from thisThe instructions are as
+follows:
+1. Amending the expiry date of the certificate recorded by
+ratification to a date that does not exceed three years after
+the date on which the inter-examination process was
+completed.
+2. The expiry date may remain the same provided that one or
+more examinations are carried out so that the intervals
+between examinations prescribed in Article (6) from these
+instructions.
+Article (18)
+The International Ship Security Certificate issued under Article (11) from
+these instructions in any of the following cases:
+a) If the examinations referred to in Article (8) in the specified
+periods.
+
+b) If the certificate is not approved in accordance with the
+provisions of Article (15) Paragraph (1) of these instructions.
+c) If the responsibility for managing or operating the ship is
+transferred to a new company.
+d) When the ship is transferred to the flag of another country.
+Article (19)
+In the case of registering a ship under the Jordanian flag, the Commission
+must be provided with copies of the international certificate of ship security
+or all information related to the certificate that the ship was carrying prior to
+its registration, and copies of the inspection reports available.
+Article (20)
+When the responsibility for managing and operating a Jordanian ship is
+transferred from one company to another, the previous company must
+directly provide the new company with copies of any information related to
+the International Ship Security Certificate or that would facilitate the
+renewal inspection processes.
+the fourth chapter
+Issuance and authentication of the temporary international
+certificate for the security of the ship
+Article (21)
+The Commission or whomever it delegates shall issue a temporary
+international certificate for the security of the ship, valid for a period of
+time6 months or until the date of issuance of the International Ship Security
+Certificate, whichever comes first, according to the form attached in the
+appendices to the Code, and after verifying that the ship complies with the
+requirements of the examination.contained in Article (8) from These
+instructions are issued and the temporary certificate is issued in the
+following cases:
+
+1. That the ship does not have an international certificate for ship
+security when it is launched or handed over to a new owner or
+before it is entered into service or restarted.
+2. Changing the flag of the ship's country from the flag of a
+country not party to the agreement to the flag of a country party
+to the agreement.
+Transfer of responsibility for operating a ship to a new
+company that was not previously operated under its
+responsibility.
+Article (22)
+Notwithstanding what is stated in Article (21) From these instructions,
+it is not permissible to issue a temporary international certificate for
+the security of the ship unless the Commission or the authorized
+security authority / organization authorized by the authority verifies
+the following:
+1. Complete the ship security assessment in accordance with the
+requirements of the Code.
+2. A copy of the ship's security plan is available on board that
+meets the separation requirements (X1-2) of the Convention
+and the Code, ensuring that this plan has been submitted for
+review and approval, and is actually being implemented on
+board the ship.
+3. Presence of a security alert system on board the ship that
+meets the requirements of the regulation (6/2 - X1-2).
+4. The company's security officer shall ensure the following tasks:
+- The ship security plan has been reviewed for compliance with
+the requirements of the Code.
+- The plan has been submitted for approval.
+- That plan is actually implemented on board the ship.
+5. To make the necessary arrangements, including arrangements
+for exercises, exercises and internal audits, by which the
+company's security officer ensures that the ship will
+successfully undergo the inspections required in accordance
+with Article (8) of these instructions within three months.
+6. Arrange for the examinations required under Article (8) These
+instructions include informing the master of the ship, the ship's
+security officer and other members of the ship's crew who carry
+out specific security tasks of their duties and responsibilities
+
+specified in the ship's security plan, and providing them with
+this information in the work language of the ship's crew or the
+language understandable to them.
+7. The ship security officer fulfills the requirements specified in the
+Code.
+Article (23)
+A temporary international ship security certificate shall not be issued
+if the Commission or authorized security body believes that one of
+the reasons why a ship or company is seeking such a certificate is to
+avoid full compliance with the requirements of chapter (X1-2) and
+code after the initial temporary certificate has expired.
+Chapter V
+Port security plan and the overlap of port facilities activities with
+ships
+Article (24)
+1. The Commission approves and recognize the port security plan
+for each port facility separately in Jordanian ports and after
+conducting the necessary assessment in accordance with the
+requirements of the regulation (16,2) of the Code so that the plan
+includes the requirements of Regulation (16,3) of Part (A) of the
+Code and the arrangements pertaining to the three security levels
+and commensurate with the nature of the interaction between the
+ship's activities and port operations.
+2. The Commission may authorize any accredited security authority
+or organization to carry out the security assessment and security
+plan work if it has experience in this field, provided that the
+Commission approves this plan after presenting it to the Security
+Committee.
+.3
+A security officer must be appointed for the port facility in each port
+facility, and a person may be appointed as an officer for the
+security of one or more port facilities and according to the
+requirements of the regulations (17.2) and Regulations (18.1),
+(18.2), (18.3) of the Code.
+
+Article (25)
+All port facilities in Jordanian ports are obligated to deal with the
+security levels determined by the Commission and in a manner that
+ensures the existence of security measures that ensure response to
+the levels of danger and without causing any confusion or delay in the
+movement of passengers and goods or in the provision of port
+services for ships.
+Article (26)
+Security alert signals are received from ships in Jordanian territorial
+waters by the communications officer on duty at the port's
+communications station, who in turn intorms the concerned
+authorities of receiving the warning signals and activates the
+emergency plan to deal with the level of security threat and give the
+necessary instructions to the ships.
+Article (27)
+It is not permissible for any new port facility or under construction to
+receive any ship for commercial operational purposes before
+conducting a security assessment for this facility. Ensure that there
+are alternative security precautions for each case, provided that the
+period of queuing the ship does not exceed one month until the
+preparation of the operator of the new port facility and a security
+assessment of this facility for approval by the committee.
+Chapter six
+Company responsibility
+Article (28)
+The company must verify that the ship's security plan includes a
+clear statement confirming the authority of the master's authority and
+responsibility to activate the ship's security plan and take all
+necessary decisions to ensure the safety and security of the ship and
+
+request the necessary assistance when necessary from the company
+or the concerned authority in the territorial waters of the nearest
+coastal country located Its his ship.
+Article (29)
+The company shall ensure that the company's security officer, the
+master and the ship's security officer are provided with immediate
+and sufficient support to enable them to carry out their duties and
+responsibilities in activating the ship's security plan in particular and
+achieving the requirements of the agreement and the code.
+Article (30)
+Companies for managing or operating ships flying the Jordanian flag
+are responsible for determining a security officer for each ship in
+accordance with the provisions of the agreement and the code, and
+they must ensure the following:
+.1
+Develop a security plan for each of its ships specified under the
+Code and the requirements of the Convention.
+.2
+That every captain and navigator assigned to any of its ships
+does not pose a security risk to the ship or the ports to which it arrives,
+and has an identity to prove and identify his identity.
+That its ships are manned according to the requirements of safe
+manning issued by the authority to ensure the activation of the ship's
+security plan, and that when appointing new navigators, they are
+subjected to familiarization and familiarization courses on board the
+ship.
+.4
+Awareness of ship crews about the tasks assigned to them and
+all arrangements, supplies and equipment that must be supplied to ships
+
+and necessary to prepare in dealing with the requirements of maritime
+security.
+.5
+Contact the competent authority to determine the mechanism for
+dealing with the levels of the security threat.
+The companies are obligated to ensure that all seafarers have
+received the necessary training to handle the ship's security plan.
+7. Establishing procedures for taking care of the security of cargo
+and containers and supervising those in charge of ship loading
+operations.
+.8
+Be aware of ships' trips to ports fraught with dangers and take
+the necessary measures against them.
+9. Coordinate crew activities on emergency, and when declaring
+each level of Maritime Security.
+.10
+Putting alarms to warn about the levels of security threat on
+board the ship and in accordance with the requirements of the Code.
+Article (31)
+Inform the Commission directly of any malfunction in the maritime
+security equipment that leads to a disruption in the procedures for
+announcing the three security levels and of any alternative security
+measures taken to compensate for this malfunction.
+Article (32)
+Companies, captains and crew members are responsible for dealing
+with the requirements of maritime security and the safe operation of
+the ship, setting written instructions to the master of each ship, and
+determining the appropriate procedures to ensure the activation of the
+ship's security plan.
+
+Article (33)
+Companies are obligated to prepare a comprehensive training plan
+and a training program on
+their ships in stages for the officers
+responsible for implementing the ship's security plan.
+Article (34)
+The company assigns the company's security officer, in addition to
+the ship's security officers, to manage a training program for ship
+security and coordinate with the authorities that provide maritime
+education and training, maritime educational institutions or others to
+achieve this.
+Article (35)
+The master and the ship's security officer shall supervise the proper
+implementation of the ship's security training program, and monitor
+the crew's performance to fully activate the ship's security plan.
+Article (36)
+Records of ship security activities are kept electronically and in the
+official language on board and contain translation into English and
+include
+drills,
+exercises, ship security scheme,
+risks
+and
+communications related to ship security.
+Chapter VII
+Ship control procedures
+
+Article (37)
+All ships except for those exempted in Paragraph Three of Article (6)
+From these instructions, when they are in Jordanian ports or territorial
+waters, to be monitored by the port state control officer authorized by
+the authority to verify the ships' compliance with the provisions of the
+agreement and the code, as follows:
+1. Ensuring the validity of the International Ship Security
+Certificate, checking the periodic inspections, and the validity of
+the temporary certificate, if any.
+.2
+Ensure that the ship's security plan is certified by the ship's flag
+state and contains the ship's IMO number.
+.3
+.4
+Ensure that the crew is able to respond in case of alarm.
+Ensure that there is a ship security officer who is assigned the
+.5
+responsibility for security on the ship.
+Ensuring the presence of the devices and equipment related to
+the safety of the ship stipulated in the agreement and the code.
+6. The state control officer at the port authorized by the authority
+may review the ship's security plans if there are clear reasons
+to believe that the ship does not meet the requirements of the
+Code or part of it.
+.7
+Before entering the Jordanian territorial waters, ships must
+record in their records the procedures taken upon their entry to
+the ports of countries not party to the agreement, and a record
+containing a summary of the names of the ports the ship
+reached during ten previous voyages.
+8. The authorized state control officer of the port has the right to
+thoroughly inspect the ships before they enter the port based
+on his professional judgment or security information he
+received in this regard.
+In the event that some security equipment is broken on the ship
+and there is no possibility of repairing it in the port or replacing
+it, then the ship is allowed to sail and complete the repair in the
+next port it will reach.
+Article (38)
+In the event of discovering any default or defect in violation of the
+provisions ot paragraphs ot (1) to (9) mentioned in Article (31 ) ot these
+instructions, so the state control officer at the authorized port must
+
+prepare a report in this regard and submit it to the administration that
+immediately informs the captain of the ship, the consul of the flag state
+or its diplomatic representative or the maritime administration affiliated
+with it That ship by fax in order to take the appropriate measures,
+otherwise he has the right to prevent the ship from entering the
+Jordanian territorial waters or to stop it and not allow it to travel and
+impose the appropriate fine on it in accordance with the laws in force.
+Article (39)
+The procedures for controlling ships in the Jordanian territorial waters
+include ensuring that the ships comply with all the requirements of
+these instructions, the code and the convention, as follows:-
+1. Existence of valid documents related to ship security in
+accordance with the requirements of these instructions,
+the code and the agreement.
+2. The ship is equipped with all maritime security
+equipment in accordance with the requirements
+of the Convention and the Code.
+.3
+The ship's structure and equipment are working and
+secure the requirements of maritime safety and security
+for its crew and passengers and the ports to which it
+arrives.
+4. The ships that are entitled to fly the flag of countries that
+are not party to the agreement do not receive better
+treatment than ships that fly the flag of countries that are
+parties to the convention.
+Article (40)
+In the event of information reaching it, the Commission shall assign
+a state control officer at the port authorized to conduct an inspection
+of the ship concerned and in the following cases:
+1) Evidence from a review of the certificate that it is invalid or has
+expired. Evidence or reliable information showing deficiencies
+in equipment, documentation, or security arrangements
+required under Chapter Xl-2 ((2) and Part A of the Code.
+
+2) receipt of a report or complaint containing, in the professional
+opinion of the authorized port state control officer, reliable
+information clearly showing that the ship does not comply with
+the requirements of Chapter X1-2 and Part A of the Code.
+3) Evidence or observations made by the authorized port state
+control officer, by virtue of his professional opinion, that the
+ship's captain or personnel on board lack sufficient knowledge
+of the basic security procedures on board the ship, are unable
+to conduct ship security exercises, or have not implemented
+these procedures or exercises.
+4) Evidence or observations made by the authorized port state
+control officer in his professional opinion that the principal crew
+members on board the ship are unable to communicate at an
+acceptable level with other members of the crew on the ship
+who have security responsibilities on board the ship.
+5) Reliable evidence or information that the ship has transported
+people, supplies or goods from a port facility or other ship, and
+that the port facility or other ship is in violation of the provisions
+of Chapter Xl-2 (Security), and has not taken appropriate,
+special or additional measures on board the ship.
+(6) Reliable evidence or information that the ship has transported
+persons, provisions or goods from a port facility, other source,
+or other vessel by helicopter or other means of maritime
+transport, and that the port facility or other source is not in
+compliance with the requirements of Chapter X1-2(2) from the
+Convention or the Code, or to whom appropriate alternative
+security measures have not been applied.
+7) If the ship has a temporary international certificate for the
+security of the ship issued after a previous temporary
+international certificate, in accordance with the requirements of
+Section (4.19) of Part (A) of the Code, and if the state control
+officer at the authorized port believes, by virtue of his
+professional opinion, that one of the reasons behind the
+request The vessel or company obtaining this certificate is to
+avoid full compliance with Chapter (2-Xl) and Part (A) of the
+Code after the initial interim certificate has expired.
+Article (41)
+
+The state control officer at the authorized port shall take all possible
+measures not to unjustifiably delay, stop or prevent the vessel from
+entering the Jordanian territorial waters.
+Chapter 8
+Final Provisions
+Article (42)
+All provisions inconsistent with the provisions of these instructions, &
+the Code and the Convention shall be cancelled.
+Article (43)
+These instructions shall be effective as of the date of their publication
+in the Official Gazette.
+

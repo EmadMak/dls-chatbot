@@ -1,0 +1,187 @@
+NO.
+1
+2
+3
+4
+5
+6
+8
+10
+11
+12
+13
+14
+15
+16
+17
+20
+21
+22
+NAME OF SHIP
+M.V HASHIM 3
+PETRA 3
+al mafrk
+AQABA
+AMMAN
+JARASH 3
+TAREQ-3
+AYLAH
+SINAA
+White Prince
+QUEEN NEFERTITI
+XPRESS
+PETRA WONDER
+TABA
+BABEL
+TURBO JET
+BAGHDAD
+BASRAH
+ALMOTHANNA
+AL-HADBAA
+RAPIDO GEE
+FLAG STATE SHIPS 05/05/2021
+IMO NO.
+9756171
+9756183
+9524279
+9445356
+9445344
+9756195
+9762974
+9097331
+9081590
+8731992
+9130925
+9083031
+8947852
+9170054
+9523380
+9535280
+9636242
+9649964
+9649976
+9649988
+9785495
+TYPE OF SHIP
+TUG BOAT
+TUG BOAT
+TUG BOAT
+TUG BOAT
+TUG BOAT
+TUG BOAT
+TUG BOAT
+RO/RO PASSENGER
+RO/ RO PASSENGER
+PASSENGER
+HSC RO/RO PASSENGER
+HSC PASSENGER CRAFT
+HSC PASSENGER CRAFT
+HSC PASSENGER CRAFT
+HSC PASSENGER CRAFT
+HSC
+GENERAL CARGO
+GENERAL CARGO
+GENERAL CARGO
+GENERAL CARGO
+Crew Boat
+GROSS TONNAGE
+461
+461
+OFFICIAL NO.
+119
+120
+106
+107
+108
+121
+122
+111
+6567
+12262
+12262
+12262
+322
+10
+11
+109
+35
+115
+116
+117
+126
+
+23
+24
+25
+28
+29
+30
+31
+RAZZO GEE
+FALCO GEE
+CAPO GEE
+OCEANO GEE
+NEW AQABA
+LORD GEE
+UR
+VERDE GEE
+DAHAB
+9758519
+9314507
+9752864
+9314519
+1014620
+9503407
+9372688
+9951587
+9264489
+FAST CREW&UTILITY BOAT
+TUG/SUPPLY
+TUG/SUPPLY
+TUG/SUPPLY
+HSC PASSENGER CRAFT
+TUG/SUPPLY
+GENERAL CARGO
+TUG ESCORT
+HSC PASSENGER CRAFT
+287
+1184
+2294
+1184
+497
+1329
+14759
+492
+224
+130
+133
+129
+127
+138
+134
+136
+137
+139
+: تعريفات
+1- NAME OF SHIP : إسم السفينة المسجلة
+رقم النداء الخاص بالسفينة وهو رقم يستخدم لحالات النداء على السفينة يستخرج من هيئة تنظيم قطاع الإتصالات الأردنية : 2- CALL SIGN
+وهو الرقم البحري الدولي الخاص بالسفينة ويستخرج من : 3- IMO NUMBER
+المنظمة البحرية الدولية ويستخدم لغايات أخذ المعلومات عن السفينة وأوضاعها من قبل جميع الجهات المعنية الدولية والمحلية
+بميئة التصنيف المعتمدة من الهيئة البحرية الأردنية والتي تشرف على بناء السفينة ومتابعة حالتها الملاحية : 1- CLASS SOCIETY
+الفنية وتصدر الشهادات المطلوبة للسفينة من قبل المنظمة البحرية الدولية والتي تفيد بأن السفينة متوائمة مع المتطلبات الدولية البحرية
+الحمولة الكلية للسفينة وهو تعريف خاص بالسفينة : (5- GRT TON (GROSS TONNAGE
+يبين حجم الفراغات المغلقة الذي تحتويه السفينة والذي يحتوي على البضاعة المحمولة
+والمخازن وصهاريج الوقود وتنكات المياه العذبة والمالحة وأماكن إعاشة الركاب وطاقم السفينة
+الحمولة الصافية للسفينة وهو تعريف لحجم الفراغ الذي تستوعيه : (6- NRT (NET TONNAGE
+السفينة لحمل البضاعة فقط من دون بقية الفراغات وهو يحتسب بمعادلة رياضية من الحمولة الكلية للسفينة
+
+7- POWER : HORSE POWER( H.P) أو Killo Watt قدرة محرك الدفع الرئيسي للسفينة ويعبر عنه بوحدة القدرة
+8- DATE & PLACE OF BUILT : تاريخ ومكان بناء السفينة
+9- DATE OF REGISTRATION : تاريخ تسجيل السفينة
+10- Owner Name :إسم المالك
+11- Management Company : شركة الإدارة
+
+
+
+
+

@@ -1,0 +1,143 @@
+Regulations for the implementation of the
+International Code of Firefighting Equipment Testing
+Procedures for the year 2014
+Issued by the Board of Directors of Jordan Maritime Commission under the
+provisions of paragraph (k) of Article (9) of the Jordan Maritime Commission
+Law No. (46) for the year 2006 and its amendments
+Article (1)
+These regulations shall be named (Regulations for the implementation of
+the International Code of Firefighting Equipment Testing for the year
+2004). These regulations shall be implemented from the date of their
+publication in the Official Gazette.
+Article (2)
+The following words and phrases wherever stated in these regulations
+shall have the meanings assigned to them hereunder unless the context
+indicates otherwise:
+The Commission:
+Administration:
+The Code:
+Accreditation:
+Validity of the document:
+Approved Classification
+Authority:
+The Convention:
+High Speed Craft Code of
+Jordan Maritime Commission
+Any State party to the Code
+International Code for the Application of
+Fire Test Measures as defined in Chapter
+11.2 of the 1974 Convention for the Safety
+of Life at Sea (SOLAS).
+Accreditation of ship documents by the
+Commission.
+The last date on which the document is valid
+as proof of meeting the fire safety
+requirements stipulated in the Convention.
+The Authority accredited by the Commission
+to perform the functions required by the
+Code
+International Convention for the Safety of
+Life at Sea (SOLAS) of 1974 and its
+amendments
+International Code of Safety for High Speed
+Crafts of 1994 approved by the Maritime
+
+1994
+(HSC Code of 1994):
+High Speed Craft Code of
+2000
+(HSC Code of 2000):
+Certified Laboratory by
+the Commission:
+Standard fire test:
+Safety Committee (MSC) subordinate of the
+Organization by resolution MSC .36(63) and
+its amendments.
+International Code of Safety for High Speed
+Crafts of 1994 approved by the Maritime
+Safety Committee (MSC) subordinate of the
+Organization by resolution MSC .97(73) and
+its amendments.
+Is the laboratory accepted by the
+Commission and any other laboratories
+accredited by the Commission
+A test in which samples in a test furnace are
+subjected to temperatures that are roughly
+equivalent to the standard time and
+Continuous Flame:
+Expiry date of the test:
+A flame on any part of the sample or above
+it for up to 5 seconds or more.
+The last date that may be adopted for the
+testing and certification of firefighting
+equipment in accordance with the
+Convention.
+The standard time-temperature curve- means the time-temperature curve
+defined by the following formula:
+T=34510g1o(8t+1) +20
+T is the average furnace temperature (0°C).
+t is the time (in minutes).
+Article (3): Scope
+1. These regulations are intended to enable the Commission to
+approve firefighting equipment to be installed on national ships in
+accordance with the fire safety requirements stipulated in the
+Convention.
+2. When testing and evaluating fire equipment, the laboratories shall
+abide by these regulations in accordance with the provisions of the
+Code.
+Article (4): Application
+
+1. These regulations shall apply to products to be tested, evaluated
+and approved in accordance with the provisions of the Convention.
+2. Any reference in these regulations to the Code shall be a reference
+to the Convention, and the equipment shall be tested according to
+one or more of the firefighting equipment test procedures referred
+to in paragraph (1) of this Article.
+3. In case of any reference in the Convention to the performance of a
+particular product in the Convention using a phrase such as "
+whose surfaces which are subject to fire have the characteristics
+of a narrow flame propagation"
+, such product shall be tested in
+accordance with one or more of the fire test procedures referred to
+in paragraph 1 of this Article.
+Article (5): The laboratories where the tests are conducted
+Tests shall be carried out by laboratories certified by the commission.
+Article (6): Approval of the procedures
+The Commission shall approve the firefighting equipment in accordance
+with its approval procedures:
+1. Using the approval procedures of the type according to paragraph
+(1.2.5) of the code
+2. Approval on a case-by-case basis in accordance with paragraph 3.5
+of the Code
+Article (7): Approval of the type of equipment
+The Administration requires manufacturers to have a quality system
+approved by a competent authority to ensure the continuous fulfillment of
+the conditions for approval of the type of equipment. The Commission
+may also use the final product verification procedures in cases where the
+competent authority verifies the certificate of approval of the type of
+equipment prior to the installation of the equipment on the ships that fly
+the Jordanian flag.
+Article 8: Use of equivalent alternatives and modern technology
+1. The Commission may approve the installation of firefighting
+equipment on ships based on tests and inspections not specifically
+mentioned in the Code but considered by the Commission to be in
+
+compliance with the fire safety requirements stipulated in the
+Convention.
+2. The Commission shall inform the Organization of the approvals
+referred to in paragraph (1.7) under Regulation (1/5) of the
+Convention, and shall follow the authentication measures listed
+below:
+a. In the case of new or non-conventional products, a written
+analysis shall be provided explaining why the method(s) of
+testing cannot be used.
+b. A written analysis shall be submitted showing how the
+proposed alternative testing procedure will demonstrate the
+required level of performance as required by the Convention.
+c. A written analysis shall be submitted in which the proposed
+alternative test procedure is compared to the procedure
+required by the Code.
+Article (9)
+The provisions of the Code shall apply to all matters not expressly
+provided for in these Regulations.
+
