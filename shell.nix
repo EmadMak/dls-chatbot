@@ -24,8 +24,6 @@ pkgs.mkShell {
     pkgs.libz
   ];
 
-  env.TESSDATA_PREFIX = "${pkgs.tesseract}/share/tessdata";
-
   shellHook = ''
     export PATH="${pkgs.python311}/bin:$PATH"
     export CUDA_PATH=${pkgs.cudatoolkit}
